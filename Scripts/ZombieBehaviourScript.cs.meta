@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96a7b3fdcee4bb144b857d7cecb8bd76
+timeCreated: 1524489759
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dyingSound: {fileID: 8300000, guid: df8f3e49811170146b8d7dcaad65bf06, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

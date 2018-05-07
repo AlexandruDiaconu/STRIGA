@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dfc342036bdece2449094fd7be99e3b3
+timeCreated: 1524493467
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombie: {fileID: 1096797690450912, guid: 8829e99f8d101bc4c94fd11bdc17decb, type: 2}
+  - groupSound1: {fileID: 8300000, guid: a605c75a1333bf3458928540c9bed27d, type: 3}
+  - groupSound2: {fileID: 8300000, guid: ca8d5f31dea5684439e5ca65e33ac18d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

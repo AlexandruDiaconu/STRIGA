@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0f297ec925d27a4e90df90becbaeebf
+timeCreated: 1524489759
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootingSound: {fileID: 8300000, guid: 45b0aaf98bea8d247ab7045e320a61be, type: 3}
+  - casingSound: {fileID: 8300000, guid: 9ae028e23bfcd704ea2fdac506e87565, type: 3}
+  - dyingSound: {fileID: 8300000, guid: bf5d7f47bfd08ad41af8eb782f874a5e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
